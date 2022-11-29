@@ -1,4 +1,4 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
 Thomas Berka,https://www.hatahet.eu/wp-content/uploads/20110816-Success-Story-Nemak-Kundenbild-Zitat-500-x-500-HP-Startseite-und-Beitrag.jpg,"Head of IT",,IT,"Ceo,tag1,manager,cto",false,"IT Chef" ,O-6066,,
 Fabian Hofer,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxa_VTkJnn8PXhMXh47mOdsJmHlF-Pg9EKefJKi7Blw&s,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,"IT Assistant" ,O-6067,O-6066,
- Philip Aigner,https://www.oefb.at/bewerbe/oefb2/person/images/1278650591628556536_2c8f14d3eec698b94c48-1,0-600x315-600x315.png,Corporate,"IT","Ceo,tag1, tag2",false,"IT Assistant" ,O-6068,O-6066,
+Philip Aigner,https://www.oefb.at/bewerbe/oefb2/person/images/1278650591628556536_2c8f14d3eec698b94c48-1,0-600x315-600x315.png,Corporate,"IT","Ceo,tag1, tag2",false,"IT Assistant" ,O-6068,O-6066,
