@@ -1,6 +1,7 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+Stefan Lintdner,,
 Thomas Berka,https://www.hatahet.eu/wp-content/uploads/20110816-Success-Story-Nemak-Kundenbild-Zitat-500-x-500-HP-Startseite-und-Beitrag.jpg,Corporate,,IT,,false,Head of IT ,O-6066,,
 Fabian Hofer,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxa_VTkJnn8PXhMXh47mOdsJmHlF-Pg9EKefJKi7Blw&s,Corporate,,IT,,false,IT Assistant ,O-6067,O-6066,
 Philip Aigner,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxa_VTkJnn8PXhMXh47mOdsJmHlF-Pg9EKefJKi7Blw&s,Corporate,,IT,,false,IT Assistant ,O-6068,O-6066,
-Thomas Mousek,,Corporate,,IT,,false,IT Specialist ,O-6069,O-6066,
-Sebastian Wimmer,,Corporate,,IT,,false,Application Developer ,O-6070,O-6066,
+Thomas Mousek,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxa_VTkJnn8PXhMXh47mOdsJmHlF-Pg9EKefJKi7Blw&s,Corporate,,IT,,false,IT Specialist ,O-6069,O-6066,
+Sebastian Wimmer,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxa_VTkJnn8PXhMXh47mOdsJmHlF-Pg9EKefJKi7Blw&s,Corporate,,IT,,false,Application Developer ,O-6070,O-6066,
