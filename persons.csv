@@ -1,6 +1,5 @@
 name;imageUrl;area;profileUrl;office;tags;isLoggedUser;positionName;id;parentId;size
-Martin Dürnberger;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;CCE;;false;CEO;O-6000;;
-Stefan Lintdner;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Solutions;;false;Geschäftsführung;O-6065;O-6000;
+Stefan Lintdner;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Solutions;;false;Geschäftsführung;O-6065;;
 Thomas Berka;https://www.hatahet.eu/wp-content/uploads/20110816-Success-Story-Nemak-Kundenbild-Zitat-500-x-500-HP-Startseite-und-Beitrag.jpg;Corporate;;IT (IT);;false;Head of IT (IT) ;O-6066;O-6065;
 Fabian Hofer;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxa_VTkJnn8PXhMXh47mOdsJmHlF-Pg9EKefJKi7Blw&s;Corporate;;IT (IT);;false;IT Assistant ;O-6067;O-6066;
 Philip Aigner;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxa_VTkJnn8PXhMXh47mOdsJmHlF-Pg9EKefJKi7Blw&s;Corporate;;IT (IT);;false;IT Assistant ;O-6068;O-6066;
@@ -8,7 +7,7 @@ Thomas Mousek;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxa_VTkJnn8
 Sebastian Wimmer;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxa_VTkJnn8PXhMXh47mOdsJmHlF-Pg9EKefJKi7Blw&s;Corporate;;IT (IT);;false;Application Developer ;O-6070;O-6066;
 Christoph Janisch;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Purchasing (PU);;false;Head of Purchasing;O-6071;O-6065;
 Mathias Halbartschlager;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Operation and Maintenance (OM);;false;Head of Operation and Maintenance;O-6072;O-6065;
-G√ºnther Schachermayr;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Operation and Maintenance (OM);;false;Technical Asset Manager;O-6073;O-6072;
+Günther Schachermayr;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Operation and Maintenance (OM);;false;Technical Asset Manager;O-6073;O-6072;
 Alexander Wenighofer;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Operation and Maintenance (OM);;false;Technical Asset Manager;O-6074;O-6072;
 Markus Peham;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Operation and Maintenance (OM);;false;Technical Asset Manager;O-6074;O-6072;
 Christian Weinzierl;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Energy Markets (EM);;false;Head of Energy Markets (EM);O-6075;O-6065;
@@ -24,7 +23,7 @@ Helena Botelho;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate
 Lloyd Gorman (PU);https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Engineering (EN);;false;Team Lead Design;O-6085;O-6083;
 Markus Wieder;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Engineering (EN);;false;Lead Construction Engineer;O-6086;O-6083;
 Dimitrii Bakumenko;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Engineering (EN);;false;Design Engineer;O-6087;O-6083;
-Ren√© Deller;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Engineering (EN);;false;Engineer;O-6088;O-6083;
+René Deller;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Engineering (EN);;false;Engineer;O-6088;O-6083;
 Agustin Marcelo Goicoechea;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Engineering (EN);;false;Engineer;O-6089;O-6083;
 Saurabh Pansare;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Engineering (EN);;false;Design Engineer Assistant;O-6090;O-6083;
 Detlef Sam;https://cdn-icons-png.flaticon.com/512/1705/1705681.png;Corporate;;Engineering (EN);;false;Senior Electrical Engineer;O-6091;O-6083;
