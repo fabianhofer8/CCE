@@ -1,6 +1,6 @@
- name ,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
- Martin Dürnberger ,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,Corporate,,Geschäftsführung,,false,CEO,O-6000,,
- Martin Dürnberger ,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,Corporate,,Solutions,,false,Solutions,O-6001,O-6000,
+name ,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+Martin Dürnberger ,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,Corporate,,Geschäftsführung,,false,CEO,O-6000,,
+Martin Dürnberger ,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,Corporate,,Solutions,,false,Solutions,O-6001,O-6000,
 Stefan Lintdner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,Corporate,,Solutions,,false,Geschäftsführung,O-6065,O-6000,
 Thomas Berka,https://www.hatahet.eu/wp-content/uploads/20110816-Success-Story-Nemak-Kundenbild-Zitat-500-x-500-HP-Startseite-und-Beitrag.jpg,Corporate,,IT (IT),,false,Head of IT (IT) ,O-6066,O-6065,
 Fabian Hofer,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxa_VTkJnn8PXhMXh47mOdsJmHlF-Pg9EKefJKi7Blw&s,Corporate,,IT (IT),,false,IT Assistant ,O-6067,O-6066,
