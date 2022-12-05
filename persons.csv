@@ -1,6 +1,11 @@
 name,imageUrl,area,profileUrl,office,positionName,id,parentId,color
-Stefan Lintdner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Geschäftsführung,O-6065,O-6000,#FFCC99
-Thomas Berka,https://www.hatahet.eu/wp-content/uploads/20110816-Success-Story-Nemak-Kundenbild-Zitat-500-x-500-HP-Startseite-und-Beitrag.jpg,CCE Solutions,,IT (IT),Head of IT (IT) ,O-6066,O-6065,#FFCC99
+CCE Group,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-1000,,
+CCE Solutions,https://cdn-icons-png.flaticon.com/512/1705/1705681.png, ,, , ,O-6000,O-1000,#99CCFF
+CCE Österreich,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-5000,O-1000,
+CCE Deutschland,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-4000,O-1000,
+CCE Niederlande,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-3000,O-1000,
+Stefan Lintdner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Geschäftsführung / Managing Director,O-6065,O-6000,#FFCC99
+Thomas Berka,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),Head of IT (IT) ,O-6066,O-6065,#FFCC99
 Fabian Hofer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),IT Assistant ,O-6067,O-6066,#FFCC99
 Philip Aigner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),IT Assistant ,O-6068,O-6066,#FFCC99
 Thomas Mousek,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),IT Specialist ,O-6069,O-6066,#FFCC99
@@ -27,8 +32,7 @@ René Deller,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutio
 Agustin Marcelo Goicoechea,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Engineer,O-6089,O-6083,#FFCC99
 Saurabh Pansare,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Design Engineer Assistant,O-6090,O-6083,#FFCC99
 Detlef Sam,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Senior Electrical Engineer,O-6091,O-6083,#FFCC99
-CCE Solutions,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-6000,,#99CCFF
-Martin Dürnberger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Senior Electrical Engineer,O-6001,O-6000,#FFCC99
+Martin Dürnberger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Geschäftsführung / Managing Director,O-6001,O-6000,#FFCC99
 Bernhard Steiner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Head of Corporate Finance (CF),O-6002,O-6001,#FFCC99
 Cederik Engel,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Head of ESG,O-6003,O-6002,#FFCC99
 Johannes Bichler,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Manager,O-6004,O-6002,#FFCC99
@@ -61,3 +65,5 @@ Sabine Lindtner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solu
 Katharina Irnberger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6031,O-6030,#FFCC99
 Tanja Filler,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6032,O-6030,#FFCC99
 Ulrike Silber,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6033,O-6030,#FFCC99
+Robert Bogner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Österreich,,CCE Österreich,Geschäftsführung / Managing Director,O-5001,O-5000,#CCFF99
+Ronald Schachner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Österreich,,CCE Österreich,Geschäftsführung / Managing Director,O-5002,O-5000,#CCFF99
