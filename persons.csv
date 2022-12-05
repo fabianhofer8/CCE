@@ -1,14 +1,14 @@
 name,imageUrl,area,profileUrl,office,positionName,id,parentId,color
 CCE Group,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-1000,,#66CC00
-CCE Solutions GmbH (AT),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE SOL,, , ,O-6000,O-1000,#FFCC99
-CCE Österreich GmbH,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE AUT,,,,O-5000,O-1000,#FF8080
+CCE Solutions ,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE SOL,, , ,O-6000,O-1000,#FFCC99
+CCE Österreich,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE AUT,,,,O-5000,O-1000,#FF8080
 CCE Deutschland,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE DEU,,,,O-4000,O-1000,#99CCFF
-CCE The Netherlands B.V,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE NLD,,,,O-3000,O-1000,#FF9900
-CCE Rumänien,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE ROU,,,,O-2000,O-1000,#E6CCB3
+CCE The Netherlands,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE NLD,,,,O-3000,O-1000,#FF9900
+CCE Romania,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE ROU,,,,O-2000,O-1000,#E6CCB3
 Clean Capital Beteiligungs GmbH,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCB,,,,O-7000,O-1000,#FFFFCC
-CC Solar GmbH & Co. KG,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCS,,,,O-8000,O-1000,#CCFFEE
-enernovum GmbH & Co. KG,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCEN,,,,O-9000,O-1000,#CCCCB3
-CCEN S.r.l,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCEN S.r.l,,,,O-11000,O-1000,#E6B3FF
+CC Solar ,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCS,,,,O-8000,O-1000,#CCFFEE
+enernovum ,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCEN,,,,O-9000,O-1000,#CCCCB3
+CCEN Italy,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCEN S.r.l,,,,O-11000,O-1000,#E6B3FF
 CCE Chile,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE CHL,,,,O-12000,O-1000,#FFEB99
 Stefan Lintdner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Solutions,Geschäftsführung / Managing Director,O-6065,O-6000,#FFCC99
 Thomas Berka,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),Head of IT (IT) ,O-6066,O-6065,#FFCC99
@@ -73,9 +73,18 @@ Tanja Filler,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutio
 Ulrike Silber,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6033,O-6030,#FFCC99
 Robert Bogner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Österreich,Geschäftsführung / Managing Director,O-5001,O-5000,#FF8080
 Ronald Schachner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Österreich,Geschäftsführung / Managing Director,O-5002,O-5000,#FF8080
-Thomas Alexander,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,,,
-,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,,,
-,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,,,
-,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,,,
-,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,,,
-,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,,,
+Robert Bogner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Solar,Geschäftsführung / Managing Director,O-8001,O-8000,#CCFFEE
+Martin Dürnberger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Beteiligung,Geschäftsführung / Managing Director,O-7001,O-7000,#FFFFCC
+Ronald Schachner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Solar,Geschäftsführung / Managing Director,O-8002,O-8000,#CCFFEE
+Ronald Schachner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Deutschland,Geschäftsführung / Managing Director,O-4001,O-4000,#99CCFF
+Robert Bogner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Deutschland,Geschäftsführung / Managing Director,O-4002,O-4000,#99CCFF
+Martin von Peinen,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Deutschland,Country Manager,O-4003,O-4000,#99CCFF
+Cederik Engel,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Netherlands,Geschäftsführung / Managing Director,O-3001,O-3000,#FF9900
+Barend Post,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Netherlands,Geschäftsführung / Managing Director,O-3002,O-3000,#FF9900
+Rene Hörwertner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Chile,Geschäftsführung / Managing Director,O-12001,O-12000,#FFEB99
+Johannes Srajer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Romania,Geschäftsführung / Managing Director,O-2001,O-2000,#E6CCB3
+Ronald Schachner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Romania,Geschäftsführung / Managing Director,O-2002,O-2000,#E6CCB3
+Jörg Menyesch,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE enernovum,Geschäftsführung / Managing Director,O-9001,O-9000,#CCCCB3
+Jörg Menyesch,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Italy,Geschäftsführung / Managing Director,O-11001,O-11000,#E6B3FF
+Martin Dürnberger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Italy,Geschäftsführung / Managing Director,O-11002,O-11000,#E6B3FF
+Sandro Esposito,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Group,,CCE Italy,Geschäftsführung / Managing Director,O-11003,O-11000,#E6B3FF
