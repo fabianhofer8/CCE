@@ -1,9 +1,9 @@
 name,imageUrl,area,profileUrl,office,positionName,id,parentId,color
-CCE Group,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-1000,,
-CCE Solutions,https://cdn-icons-png.flaticon.com/512/1705/1705681.png, ,, , ,O-6000,O-1000,#99CCFF
-CCE Österreich,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-5000,O-1000,
-CCE Deutschland,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-4000,O-1000,
-CCE Niederlande,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-3000,O-1000,
+CCE Group,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-1000,,#66CC00
+CCE Solutions,https://cdn-icons-png.flaticon.com/512/1705/1705681.png, ,, , ,O-6000,O-1000,#FFCC99
+CCE Österreich,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-5000,O-1000,#FF8080
+CCE Deutschland,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-4000,O-1000,#99CCFF
+CCE Niederlande,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-3000,O-1000,#FF9900
 Stefan Lintdner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Geschäftsführung / Managing Director,O-6065,O-6000,#FFCC99
 Thomas Berka,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),Head of IT (IT) ,O-6066,O-6065,#FFCC99
 Fabian Hofer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),IT Assistant ,O-6067,O-6066,#FFCC99
@@ -65,5 +65,5 @@ Sabine Lindtner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solu
 Katharina Irnberger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6031,O-6030,#FFCC99
 Tanja Filler,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6032,O-6030,#FFCC99
 Ulrike Silber,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6033,O-6030,#FFCC99
-Robert Bogner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Österreich,,CCE Österreich,Geschäftsführung / Managing Director,O-5001,O-5000,#CCFF99
-Ronald Schachner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Österreich,,CCE Österreich,Geschäftsführung / Managing Director,O-5002,O-5000,#CCFF99
+Robert Bogner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Österreich,,CCE Österreich,Geschäftsführung / Managing Director,O-5001,O-5000,#FF8080
+Ronald Schachner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Österreich,,CCE Österreich,Geschäftsführung / Managing Director,O-5002,O-5000,#FF8080
