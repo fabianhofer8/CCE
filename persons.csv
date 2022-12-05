@@ -1,63 +1,63 @@
 name,imageUrl,area,profileUrl,office,positionName,id,parentId,color
-Stefan Lintdner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Geschäftsführung,O-6065,O-6000,#00FF00
-Thomas Berka,https://www.hatahet.eu/wp-content/uploads/20110816-Success-Story-Nemak-Kundenbild-Zitat-500-x-500-HP-Startseite-und-Beitrag.jpg,CCE Solutions,,IT (IT),Head of IT (IT) ,O-6066,O-6065,#00FF00
-Fabian Hofer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),IT Assistant ,O-6067,O-6066,#00FF00
-Philip Aigner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),IT Assistant ,O-6068,O-6066,#00FF00
-Thomas Mousek,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),IT Specialist ,O-6069,O-6066,#00FF00
-Sebastian Wimmer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),Application Developer ,O-6070,O-6066,#00FF00
-Christoph Janisch,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Purchasing (PU),Head of Purchasing,O-6071,O-6065,#00FF00
-Mathias Halbartschlager,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Operation and Maintenance (OM),Head of Operation and Maintenance,O-6072,O-6065,#00FF00
-Günther Schachermayr,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Operation and Maintenance (OM),Technical Asset Manager,O-6073,O-6072,#00FF00
-Alexander Wenighofer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Operation and Maintenance (OM),Technical Asset Manager,O-6074,O-6072,#00FF00
-Markus Beham,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Operation and Maintenance (OM),Technical Asset Manager,O-6074,O-6072,#00FF00
-Christian Weinzierl,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Energy Markets (EM),Head of Energy Markets (EM),O-6075,O-6065,#00FF00
-Maira Carolina Giraldo Henao,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Energy Markets (EM),Energy Markets Assistant,O-6076,O-6075,#00FF00
-Stefan Lintdner (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Head of Program and Product Management (PM),O-6077,O-6065,#00FF00
-Lloyd Gorman (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Tender Manager,O-6078,O-6077,#00FF00
-Maximilian Fischer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Product Management Assistant,O-6079,O-6077,#00FF00
-Kaiser Josef Torres Sedillo,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Product Developer ESS & Grid Services,O-6080,O-6077,#00FF00
-Robert Holztrattner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Product Developer Agrivoltaics,O-6081,O-6077,#00FF00
-Nicolas Mendez,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Engineer,O-6082,O-6077,#00FF00
-Stefan Lintdner (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Head of Engineering,O-6083,O-6065,#00FF00
-Helena Botelho,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Lead Performance Engineer,O-6084,O-6083,#00FF00
-Lloyd Gorman (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Team Lead Design,O-6085,O-6083,#00FF00
-Markus Wieder,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Lead Construction Engineer,O-6086,O-6083,#00FF00
-Dimitrii Bakumenko,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Design Engineer,O-6087,O-6083,#00FF00
-René Deller,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Engineer,O-6088,O-6083,#00FF00
-Agustin Marcelo Goicoechea,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Engineer,O-6089,O-6083,#00FF00
-Saurabh Pansare,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Design Engineer Assistant,O-6090,O-6083,#00FF00
-Detlef Sam,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Senior Electrical Engineer,O-6091,O-6083,#00FF00
-Martin Dürnberger & Stefan Lindtner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Geschäftsführung / Managing Director,O-6000,,#00FF00
-Martin Dürnberger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Senior Electrical Engineer,O-6001,O-6000,#00FFFF
-Bernhard Steiner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Head of Corporate Finance (CF),O-6002,O-6001,#00FF00
-Cederik Engel,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Head of ESG,O-6003,O-6002,#00FF00
-Johannes Bichler,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Manager,O-6004,O-6002,#00FF00
-Thomas Hofstödter,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Financial Analyst,O-6005,O-6002,#00FF00
-Daniel Altschuler,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Manager,O-6006,O-6002,#00FF00
-Paul Matellanes,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Investment Manager & Corporate Finance,O-6007,O-6002,#00FF00
-Marcel Joshua Kannampuzha,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Financial Analyst,O-6008,O-6002,#00FF00
-Birgit Madl ,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Asset Management (AM),Head of Asset Management (AM),O-6009,O-6001,#00FF00
-Marion Fuchs,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Asset Management (AM),Asset Manager,O-6010,O-6009,#00FF00
-Christa Kaller,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Asset Management (AM),Asset Manager,O-6011,O-6009,#00FF00
-Martin Schäfer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Asset Management (AM),Asset Manager,O-6012,O-6009,#00FF00
-Elisabeth Dorninger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Legal (LE),Head of Legal (LE),O-6013,O-6009,#00FF00
-Philipp Eichinger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Marketing (MA),Head of Marketing (MA),O-6014,O-6009,#00FF00
-Hanna Geier,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Marketing (MA),Marketing Manager,O-6015,O-6014,#00FF00
-Johannes Stöffelbauer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Finance and Controlling (CO),Head of Finance and Controlling (CO),O-6016,O-6009,#00FF00
-Luise Sandmaier,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Finance and Controlling (CO),Controller,O-6017,O-6016,#00FF00
-Helga Dürnberger (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Back Office (BO),Head of Back Office (BO),O-6018,O-6009,#00FF00
-Brigitte Haider,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Back Office (BO),Back Office Assistant,O-6019,O-6018,#00FF00
-Madlen Schweighuber,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Back Office (BO),Back Office Assistant,O-6020,O-6018,#00FF00
-Carina Arthofer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Back Office (BO),Back Office Assistant,O-6021,O-6018,#00FF00
-Nadine Oboye,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Back Office (BO),Back Office Assistant,O-6022,O-6018,#00FF00
-Helga Dürnberger (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),Head of Human Ressources (HR),O-6023,O-6009,#00FF00
-Elfriede Mayrhofer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),Payroll Accountant,O-6024,O-6023,#00FF00
-Karin Killian,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),HR Assistant & Payroll Accountant,O-6025,O-6023,#00FF00
-Emina Zahirovic,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),HR Assistant & Payroll Accountant,O-6026,O-6023,#00FF00
-Katharina Zirknitzer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),HR Manager,O-6027,O-6023,#00FF00
-Verena Musikar,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),HR Manager,O-6028,O-6023,#00FF00
-Jürgen Brunner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Development (DC),Head of Corporate Development (DC),O-6029,O-6065,#00FF00
-Sabine Lindtner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Teamlead Accounting,O-6030,O-6016,#00FF00
-Katharina Irnberger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6031,O-6030,#00FF00
-Tanja Filler,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6032,O-6030,#00FF00
-Ulrike Silber,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6033,O-6030,#00FF00
+Stefan Lintdner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Geschäftsführung,O-6065,O-6000,#FFCC99
+Thomas Berka,https://www.hatahet.eu/wp-content/uploads/20110816-Success-Story-Nemak-Kundenbild-Zitat-500-x-500-HP-Startseite-und-Beitrag.jpg,CCE Solutions,,IT (IT),Head of IT (IT) ,O-6066,O-6065,#FFCC99
+Fabian Hofer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),IT Assistant ,O-6067,O-6066,#FFCC99
+Philip Aigner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),IT Assistant ,O-6068,O-6066,#FFCC99
+Thomas Mousek,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),IT Specialist ,O-6069,O-6066,#FFCC99
+Sebastian Wimmer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,IT (IT),Application Developer ,O-6070,O-6066,#FFCC99
+Christoph Janisch,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Purchasing (PU),Head of Purchasing,O-6071,O-6065,#FFCC99
+Mathias Halbartschlager,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Operation and Maintenance (OM),Head of Operation and Maintenance,O-6072,O-6065,#FFCC99
+Günther Schachermayr,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Operation and Maintenance (OM),Technical Asset Manager,O-6073,O-6072,#FFCC99
+Alexander Wenighofer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Operation and Maintenance (OM),Technical Asset Manager,O-6074,O-6072,#FFCC99
+Markus Beham,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Operation and Maintenance (OM),Technical Asset Manager,O-6074,O-6072,#FFCC99
+Christian Weinzierl,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Energy Markets (EM),Head of Energy Markets (EM),O-6075,O-6065,#FFCC99
+Maira Carolina Giraldo Henao,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Energy Markets (EM),Energy Markets Assistant,O-6076,O-6075,#FFCC99
+Stefan Lintdner (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Head of Program and Product Management (PM),O-6077,O-6065,#FFCC99
+Lloyd Gorman (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Tender Manager,O-6078,O-6077,#FFCC99
+Maximilian Fischer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Product Management Assistant,O-6079,O-6077,#FFCC99
+Kaiser Josef Torres Sedillo,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Product Developer ESS & Grid Services,O-6080,O-6077,#FFCC99
+Robert Holztrattner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Product Developer Agrivoltaics,O-6081,O-6077,#FFCC99
+Nicolas Mendez,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Program and Product Management (PM),Engineer,O-6082,O-6077,#FFCC99
+Stefan Lintdner (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Head of Engineering,O-6083,O-6065,#FFCC99
+Helena Botelho,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Lead Performance Engineer,O-6084,O-6083,#FFCC99
+Lloyd Gorman (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Team Lead Design,O-6085,O-6083,#FFCC99
+Markus Wieder,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Lead Construction Engineer,O-6086,O-6083,#FFCC99
+Dimitrii Bakumenko,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Design Engineer,O-6087,O-6083,#FFCC99
+René Deller,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Engineer,O-6088,O-6083,#FFCC99
+Agustin Marcelo Goicoechea,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Engineer,O-6089,O-6083,#FFCC99
+Saurabh Pansare,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Design Engineer Assistant,O-6090,O-6083,#FFCC99
+Detlef Sam,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Engineering (EN),Senior Electrical Engineer,O-6091,O-6083,#FFCC99
+Martin Dürnberger & Stefan Lindtner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Geschäftsführung / Managing Director,O-6000,,#99CCFF
+Martin Dürnberger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,CCE Solutions,Senior Electrical Engineer,O-6001,O-6000,#FFCC99
+Bernhard Steiner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Head of Corporate Finance (CF),O-6002,O-6001,#FFCC99
+Cederik Engel,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Head of ESG,O-6003,O-6002,#FFCC99
+Johannes Bichler,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Manager,O-6004,O-6002,#FFCC99
+Thomas Hofstödter,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Financial Analyst,O-6005,O-6002,#FFCC99
+Daniel Altschuler,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Manager,O-6006,O-6002,#FFCC99
+Paul Matellanes,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Investment Manager & Corporate Finance,O-6007,O-6002,#FFCC99
+Marcel Joshua Kannampuzha,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Finance (CF),Financial Analyst,O-6008,O-6002,#FFCC99
+Birgit Madl ,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Asset Management (AM),Head of Asset Management (AM),O-6009,O-6001,#FFCC99
+Marion Fuchs,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Asset Management (AM),Asset Manager,O-6010,O-6009,#FFCC99
+Christa Kaller,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Asset Management (AM),Asset Manager,O-6011,O-6009,#FFCC99
+Martin Schäfer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Asset Management (AM),Asset Manager,O-6012,O-6009,#FFCC99
+Elisabeth Dorninger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Legal (LE),Head of Legal (LE),O-6013,O-6001,#FFCC99
+Philipp Eichinger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Marketing (MA),Head of Marketing (MA),O-6014,O-6001,#FFCC99
+Hanna Geier,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Marketing (MA),Marketing Manager,O-6015,O-6014,#FFCC99
+Johannes Stöffelbauer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Finance and Controlling (CO),Head of Finance and Controlling (CO),O-6016,O-6001,#FFCC99
+Luise Sandmaier,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Finance and Controlling (CO),Controller,O-6017,O-6016,#FFCC99
+Helga Dürnberger (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Back Office (BO),Head of Back Office (BO),O-6018,O-6001,#FFCC99
+Brigitte Haider,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Back Office (BO),Back Office Assistant,O-6019,O-6018,#FFCC99
+Madlen Schweighuber,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Back Office (BO),Back Office Assistant,O-6020,O-6018,#FFCC99
+Carina Arthofer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Back Office (BO),Back Office Assistant,O-6021,O-6018,#FFCC99
+Nadine Oboye,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Back Office (BO),Back Office Assistant,O-6022,O-6018,#FFCC99
+Helga Dürnberger (PU),https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),Head of Human Ressources (HR),O-6023,O-6001,#FFCC99
+Elfriede Mayrhofer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),Payroll Accountant,O-6024,O-6023,#FFCC99
+Karin Killian,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),HR Assistant & Payroll Accountant,O-6025,O-6023,#FFCC99
+Emina Zahirovic,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),HR Assistant & Payroll Accountant,O-6026,O-6023,#FFCC99
+Katharina Zirknitzer,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),HR Manager,O-6027,O-6023,#FFCC99
+Verena Musikar,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Human Ressources (HR),HR Manager,O-6028,O-6023,#FFCC99
+Jürgen Brunner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Corporate Development (DC),Head of Corporate Development (DC),O-6029,O-6065,#FFCC99
+Sabine Lindtner,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Teamlead Accounting,O-6030,O-6016,#FFCC99
+Katharina Irnberger,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6031,O-6030,#FFCC99
+Tanja Filler,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6032,O-6030,#FFCC99
+Ulrike Silber,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,CCE Solutions,,Team Accounting,Accountant,O-6033,O-6030,#FFCC99
